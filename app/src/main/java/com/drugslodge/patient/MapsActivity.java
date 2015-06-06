@@ -18,6 +18,11 @@ public class MapsActivity extends FragmentActivity {
         setUpMapIfNeeded();
     }
 
+    public void gps()
+    {
+
+    }
+
     @Override
     protected void onResume() {
         super.onResume();
